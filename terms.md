@@ -1,6 +1,6 @@
 # Casetext Terms of Service
 
-Effective as of March 15, 2015
+Effective as of November 21, 2016
 
 While Casetext is primarily used by lawyers, it's also a resource for the public. We've tried to make our Terms of Service as straightforward as possible.
 
@@ -14,17 +14,41 @@ Even if your eyes normally glaze over legalese, please read this agreement caref
 
 You may use the Casetext Services only if you can form a binding contract with Casetext, and only in compliance with this Agreement and all applicable local, state, national, and international laws, rules and regulations. The Services are not available to any users previously removed by Casetext.
 
-Subject to the terms and conditions of this Agreement, you are granted a non-exclusive, limited, non-transferable, freely revocable license to use the Services as permitted by the features of the Services. Casetext reserves all rights not expressly granted in the Services and Casetext Content (as defined below). Casetext may terminate this license at any time for any reason or no reason.
-
-We may maintain different types of accounts for different types of users. If you open a Casetext account on behalf of a law firm, organization, or other entity, then (a) "you" includes you and that entity, and (b) you represent and warrant that you are an authorized representative of the entity with the authority to bind the entity to this Agreement, and that you agree to this Agreement on the entity's behalf. Note that this applies only if you open a Casetext account _on behalf of _an organization, named for that organization, not simply because you open a personal account and also happen to work for a particular organization.
-
 By providing Casetext your email address you consent to our using the email address to send you Services-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as changes to features of the Services and special offers. If you do not want to receive such email messages, you may opt out or change your preferences in the Account Settings page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.
 
 You are solely responsible for your interactions with other Casetext users. We reserve the right, but have no obligation, to monitor disputes between you and other users. Casetext shall have no liability for your interactions with other users, or for any user's action or inaction.
 
+Casetext offers both Services for free (the "Free Services"), as well as some that are only accessible through a subscription (the "Subscription Services"). 
+
+## Use of our Free Services
+
+Subject to the terms and conditions of this Agreement, you are granted a non-exclusive, limited, non-transferable, freely revocable license to use the Services as permitted by the free features of the Services. Casetext reserves all rights not expressly granted in the Services and Casetext Content (as defined below). Casetext may terminate this license at any time for any reason or no reason.
+
+## Use of our Subscription Services
+
+Note that access to and use of the Subscription Services is subject to terms and conditions are sometimes set forth in a separate agreement ("Subscription Agreement") between Casetext and your law firm, company or other entity (a "Subscriber") in addition to the Terms of Services. A subscriber may authorize certain of its attorneys and other personnel to use the Subscription Services covered by the Subscription Agreement.
+
+Authorized Users are permitted to use the applicable Subscribed Services, solely in connection with the Subscriber's provision of its legal services to clients or within its own practice, business or educational activities, and in a manner that is not commercially prejudicial to Casetext. 
+
+## Trial access
+
+We may offer limited pre-subscription trials to potential subscribers and individual users. When you're using Casetext on a trial, you are authorized to use one or more of the Casetext Subscription Services for a limited period of time, all as determined by us in our sole discretion.
+
+## Access restrictions
+
+Without limitation to any other available contractual, legal or equitable remedies, we reserve the right to revoke, suspend or terminate, without notice, any user's access to one or more (or all) of the Casetext Services upon any violation or suspected violation of the Terms of Services.
+
+You agree not to access or attempt to access any Casetext services other than through Free Services, Trial Services, or Subscription Services for which they are authorized, or otherwise circumvent or attempt to circumvent any access restrictions or controls through hacking or other means. Trial users and subscribed users shall not disclose their assigned user name or password to anyone.
+
+For information about Casetext's subscription services, email [sales@casetext.com](mailto:sales@casetext.com).
+
+## Casetext accounts on behalf of individuals and organizations
+
+We may maintain different types of accounts for different types of users. If you open a Casetext account on behalf of a law firm, organization, or other entity, then (a) "you" includes you and that entity, and (b) you represent and warrant that you are an authorized representative of the entity with the authority to bind the entity to this Agreement, and that you agree to this Agreement on the entity's behalf. Note that this applies only if you open a Casetext account _on behalf of_ an organization, named for that organization, not simply because you open a personal account and also happen to work for a particular organization.
+
 # Your content
 
-You own the rights to the content you post on Casetext. We don't claim ownership over any of it. However, by posting or transferring content to Casetext, you give us permission to use your content to do all the things we believe, in Casetext's sole discretion, help us to provide the Casetext Services, including, without limitation, storing, displaying, reproducing, and distributing your content. This may include promoting your content on other online platforms and with partner companies or services for broader broadcast, distribution, or publication. We want your content to be read by the people who'll find it most useful and interesting.
+Besides researching, on Casetext you can publish information for the entire legal community (referred to as "content"). You own the rights to the content you post on Casetext. We don't claim ownership over any of it. However, by posting or transferring content to Casetext, you give us permission to use your content to do all the things we believe, in Casetext's sole discretion, help us to provide the Casetext Services, including, without limitation, storing, displaying, reproducing, and distributing your content. This may include promoting your content on other online platforms and with partner companies or services for broader broadcast, distribution, or publication. We want your content to be read by the people who'll find it most useful and interesting.
 
 Casetext is a community-driven resource, and accessing your contributions will always be free on Casetext. We will never sell your content to third parties without your explicit permission.
 
