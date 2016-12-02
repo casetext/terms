@@ -192,7 +192,7 @@ Casetext is only for people 13 years old and over. If you're under 13, we're sor
 
 # Security and responsible disclosures
 
-Casetext adheres to its Information Security Policy, which controls its application, data, and physical security. For more information on Casetext’s Security Policy, contact [security@casetext.com](mailto:security@casetext.com).
+Casetext’s internal Information Security & Privacy Policy governs all aspects of information security and privacy at Casetext. Potential subscribers may inquire about Casetext’s data, application, and physical security by contacting [security@casetext.com](mailto:security@casetext.com).
 
 # Third-party account use for sign-ins
 
