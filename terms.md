@@ -54,7 +54,7 @@ iv. Effect of Termination. In the event of termination of the Subscription Servi
 
 We may offer limited pre-subscription trials to potential subscribers and individual users. When you're using Casetext on a trial, you are authorized to use one or more of the Casetext Subscription Services for a limited period of time, all as determined by us in our sole discretion. All Authorized Users of Trial Services are subject to the same terms and use restrictions as Subscribers.
 
-## C. Access restrictions
+## C. Access and Usage Restrictions
 
 ### 1. Access Restrictions
 
